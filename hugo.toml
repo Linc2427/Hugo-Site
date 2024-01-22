@@ -35,3 +35,8 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[[menu.main]]
+name = "Flask"
+url = "https://flask.mqdd.cloud"
+weight = 5
