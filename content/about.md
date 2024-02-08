@@ -27,7 +27,7 @@ Nama Saya Ahmad Miqdad, saya merupakan mahasiswa prodi Teknik Telekomunikasi Pol
 * [PKM-KC: 🔐 Sistem Keamanan dan Monitoring Berbasis IoT dengan Access Code dan GPS Tracking](https://https://github.com/Linc2427/TwinGuard "TwinGuard") 
 * [Website Pengecekan Bagasi Bandara Udara Juanda](https://github.com/Linc2427/Golek.in "Golek.in") 
 * [Aplikasi Vaksin Surabaya Menggunakan Zenity](https://github.com/Linc2427/Aplikasi-Vaksin-Bash "Aplikasi Vaksin") 
-* [Website Monitoring Lampu Penerangan Jalan Gresik](https://github.com/Linc2427/SmartPju "Smart Pju") 
+* [Website Monitoring Lampu Penerangan Jalan Gresik PT.Telkom](https://github.com/Linc2427/SmartPju "Smart Pju") 
 * [Deteksi Suhu Pada Pintu Masuk Menggunakan Arduino](https://github.com/Linc2427/Si-HU "Si-HU") 
 * [Aplikasi E-Commerce Menggunakan Java](https://github.com/Linc2427/Aplikasi-E-commerce-Java "Aplikasi E-Commerce Java") 
 * [website Persewaan Buku](https://drive.google.com/drive/folders/19XisZQUZ89XGICcL_qbTS9s3AiDMIV1V "Website Persewaan Buku") 

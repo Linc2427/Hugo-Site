@@ -5,7 +5,7 @@ title: 'Instalasi Jupyter Notebook Menggunakan WSL'
 tags: [tech, tutorial, jupyter notebook]
 description: 'Jupyter Notebook merupakan sebuah program yang biasa digunankan untuk eksplorasi data menggunakan bahasa Julia, Python, dan R. Pada tutorial ini saya akan menunjukkan cara instalasi Jupyter Notebook dengan WSL.'
 ---
-![Scenario 1: Jupyter Notebook](/notebook_windows_wsl.png)
+{{< img src="/notebook_windows_wsl.png" title="Jupyter Notebook" alt="Jupyter Notebook" >}}
 
 Jupyter Notebook merupakan sebuah program yang biasa digunankan untuk eksplorasi data menggunakan bahasa Julia, Python, dan R. 
 

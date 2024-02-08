@@ -5,7 +5,7 @@ title: 'Neovim Sebagai IDE'
 tags: [Tech, Tutorial, neovim]
 description: 'Neovim Merupakan sebuah text editor yang minimalis. Secara default Neovim tidak memiliki banyak fitur. Pada Tutorial ini saya akan menunjukkan cara instalasi agar Neovim memiliki fitur-fitur seperti text editor lain.'
 ---
-![image 1: Neovim](/dashboard.png)
+{{< img src="/dashboard.png" title="Neovim - NvChad" alt="Neovim" >}}
 
 Neovim Merupakan sebuah text editor yang minimalis. Secara default Neovim tidak memiliki banyak fitur seperti IDE yang biasanya seperti Vscode, Atom, dll. Untuk menambahkan fitur-fitur pada Neovim diperlukan effort yang lebih seperti instalasi plugin, konfigurasi autocomplete, dll.
 
@@ -28,10 +28,10 @@ sudo add-apt-repository ppa:neovim-ppa/unstable
 ```shell
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 ```
+## Preview
+{{< img src="/preview.png" title="Preview NvChad" alt="Preview Image" >}}
+
 Selamat!! Neovim kalian akan menjadi IDE seperti Vscode 👍😁👍. Untuk shortcut/keybinding dari NvChad dapat dilihat pada [Link ini](https://nvchad.com/docs/features "NvChad") atau ketikkan **"Spasi+ch"** pada saat Normal mode.
 
-## Preview
-
-![image 2: Preview Nv Chad](/preview.png)
 
 ****Direkomendasikan sebelum menggunakan vim/neovim kalian harus biasa menggunakan vim binding.***

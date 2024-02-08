@@ -14,7 +14,7 @@
       <link>/posts/notebook/</link>
       <pubDate>Sun, 21 Jan 2024 04:25:11 +0700</pubDate>
       <guid>/posts/notebook/</guid>
-      <description>Jupyter Notebook merupakan sebuah program yang biasa digunankan untuk eksplorasi data menggunakan bahasa Julia, Python, dan R.&#xA;Pada kali ini saya akan menunjukkan cara menginstall Jupyter Notebook di Windows menggunakan WSL yang dimana menurut saya lebih mudah dibandingkan dengan cara instalasi secara biasa melalui instalasi python pada windows. Distro yang saya gunakan pada tutorial ini adalah Ubuntu.&#xA;Instalasi WSL dapat dilihat pada dokumentasi dari Microsoft. Setelah WSL terinstall ikuti langkah berikut:</description>
+      <description>Jupyter Notebook Jupyter Notebook merupakan sebuah program yang biasa digunankan untuk eksplorasi data menggunakan bahasa Julia, Python, dan R.&#xA;Pada kali ini saya akan menunjukkan cara menginstall Jupyter Notebook di Windows menggunakan WSL yang dimana menurut saya lebih mudah dibandingkan dengan cara instalasi secara biasa melalui instalasi python pada windows. Distro yang saya gunakan pada tutorial ini adalah Ubuntu.&#xA;Instalasi WSL dapat dilihat pada dokumentasi dari Microsoft. Setelah WSL terinstall ikuti langkah berikut:</description>
     </item>
   </channel>
 </rss>
