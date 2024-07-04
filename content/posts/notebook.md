@@ -24,11 +24,12 @@ pip install notebook
 ```
 4. Jalankan Jupyter Notebook
 ```shell
-jupyter notebook
+jupyter notebook --no-browser
 ```
 atau
 ```shell
-python3 -m notebook
+python3 -m notebook --no-browser
+
 ```
 Untuk mengakses folder yang kalian inginkan gunakan perintah seperti biasa pada linux yaitu dengan cd ke direktori yang kalian inginkan.
 
